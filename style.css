@@ -21,7 +21,7 @@ a:link{
         margin-left: -25px;
     }
   }
-  @media screen and (max-width: 416px) {
+  @media screen and (max-width: 415px) {
     .headLogo {
       margin-left: -110px;
     
@@ -79,7 +79,7 @@ color: #404040;
 
 .icon1{
     float: right;
-    margin-top: -35px;
+    margin-top: -30px;
   
 }
 
@@ -94,8 +94,14 @@ color: #404040;
 
 .icon3{
     float: right;
+    margin-top: -40px;
 }
 
+.icon6{
+  float: right;
+  margin-top: -40px;
+
+}
 
 
 
